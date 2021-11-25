@@ -177,7 +177,6 @@ export const deleteData = (dataId) => {
     <thead>
       <tr>
         <th>Autor</th>
-        <th colspan="2">Contribuições</th>
       </tr>
     </thhead>
     <tbody>
