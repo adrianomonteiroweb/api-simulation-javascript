@@ -172,3 +172,28 @@ export const deleteData = (dataId) => {
   });
 };
 ```
+<div>
+  <table>
+    <thead>
+      <tr>
+        <th>Autor</th>
+        <th colspan="2">Contribuições</th>
+      </tr>
+    </thhead>
+    <tbody>
+      <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/47261292?v=4" alt="Adriano Monteiro" width="100x" /></td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/adrianomonteiroweb/" target="_blank">Adriano Monteiro</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <a href="https://www.linkedin.com/in/adrianomonteiroweb/" target="_blank">LinkedIn</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
