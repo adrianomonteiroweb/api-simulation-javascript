@@ -172,6 +172,9 @@ export const deleteData = (dataId) => {
   });
 };
 ```
+
+*Esse repositório foi criar a partir de um dos projetos em minha formação na Trybe. Espero comtribuir compartilhando o conhecimento!*
+
 <div>
   <table>
     <thead>
